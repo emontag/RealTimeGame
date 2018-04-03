@@ -1,2 +1,2 @@
 # RealTimeGame
-Real time action text based game
+Real time action game simple gui
